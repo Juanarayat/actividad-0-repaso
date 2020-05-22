@@ -78,6 +78,7 @@ void main()
 	printf("ingrese numero \n");
 	scanf("%d",&numero2);
         arreglo(numero2,resultado,tam_resultado);
+        "esta linea de codigo se edito de manera remota"
 }
 /* 
   3)los datos enteros pueden piden memoria para representar numeros de hasta 4 bytes , es decir 32 bits, es decir en binario  a lo mucho 
